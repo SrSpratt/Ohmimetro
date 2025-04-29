@@ -2,7 +2,7 @@
 #### Autor:
 * Roberto Vítor Lima Gomes Rodrigues
 
-### Personagem enclausurado
+### Ohmímetro
 Como segundo projeto, foi proposta a implementação de um ohmímetro na placa BitDogLab, utilizando as medições do ADC junto a um divisor de tensão com um resistor de referência para que fosse possível a mensuração do valor de resistência do outro.
 
 #### Vídeo de funcionamento
